@@ -18,15 +18,15 @@ Lógica de juego: Turnos por jugador y manejo de reglas básicas.
 
 ⚙️ Cómo ejecutarlo
 
-git clone https://github.com/tu-usuario/python-101.git
-cd python-101
-python juego_cartas.py
+- git clone https://github.com/tu-usuario/python-101.git
+- cd python-101
+- python juego_cartas.py
 
 📚 Conceptos aplicados
-Diccionarios y listas
-Funciones
-Aleatoriedad con random
-Control de flujo (bucles, condicionales)
+- Diccionarios y listas
+- Funciones
+- Aleatoriedad con random
+- Control de flujo (bucles, condicionales)
 
 
 
